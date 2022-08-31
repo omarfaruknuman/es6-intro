@@ -15,4 +15,4 @@ const number3 = [...numbers];
 
 const number4 = [78, 234, ...numbers, 343, 7657];
 
-console.log(number44)
+console.log(number4)
